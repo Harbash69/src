@@ -1,0 +1,22 @@
+body,html{
+  background-image: url('https://www.somocergroup.com/wp-content/uploads/2022/01/STB-BANK-1.jpg');
+  background-size:auto;
+}
+
+
+#exTab1 .tab-content {
+  color: white;
+  padding: 5px 15px;
+  color: #0a1432
+
+
+
+}
+
+#exTab1 .nav-pills>li>a {
+  border-radius: 50px;
+  color:white;
+  background-color: transparent;
+
+}
+
